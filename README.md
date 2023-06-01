@@ -2,7 +2,7 @@
 
 Download the Code and Run on live-Server
 
-Use gif Images:
+Use gif images for motion effect.
 
 Output Image:
 
