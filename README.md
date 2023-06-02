@@ -1,6 +1,8 @@
 # moving-images
 
-Download the Code and Run on live-Server
+Download the Code and Open in the VS Code.
+
+Run on live-Server.
 
 Use gif images for motion effect.
 
