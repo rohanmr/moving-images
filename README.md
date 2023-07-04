@@ -1,10 +1,10 @@
 # moving-gif-images
 
-Download the Code and Open in the VS Code.
+Download the Code and Open it in the VS Code.
 
 Run on live-Server.
 
-Use gif images for motion effect.
+Use gif images for a motion effect.
 
 ## Output Image:
 
