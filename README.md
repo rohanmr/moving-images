@@ -2,6 +2,8 @@
 
 Download the Code and Open it in the VS Code.
 
+Install VS Code Extension Live-Server.
+
 Run on live-Server.
 
 Use gif images for a motion effect.
