@@ -1,4 +1,4 @@
-# moving-gif-images
+# Moving-Gif-Images
 
 Download the Code and Open it in the VS Code.
 
